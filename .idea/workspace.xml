@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="927e453c-3644-4a71-85b7-8d13a27ede18" name="Changes" comment="updated 4/4 lại" />
+    <list default="true" id="927e453c-3644-4a71-85b7-8d13a27ede18" name="Changes" comment="updated 4/4 lại">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nhom10_Data-Analysis_Midterm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Nhom10_Data-Analysis_Midterm.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="thanh" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/PTDL_main",
     "node.js.detected.package.eslint": "true",
@@ -93,6 +97,7 @@
       <workItem from="1743781449195" duration="12099000" />
       <workItem from="1743794261776" duration="123000" />
       <workItem from="1743824196443" duration="1513000" />
+      <workItem from="1743825742350" duration="2205000" />
     </task>
     <task id="LOCAL-00001" summary="updated 4/4 còn báo cáo">
       <option name="closed" value="true" />
@@ -131,5 +136,16 @@
     <MESSAGE value="updated 4/4 còn báo cáo" />
     <MESSAGE value="updated 4/4 lại" />
     <option name="LAST_COMMIT_MESSAGE" value="updated 4/4 lại" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

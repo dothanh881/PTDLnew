@@ -50,7 +50,6 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/PTDL_main",
     "node.js.detected.package.eslint": "true",
@@ -93,7 +92,7 @@
       <workItem from="1743777227576" duration="3553000" />
       <workItem from="1743781449195" duration="12099000" />
       <workItem from="1743794261776" duration="123000" />
-      <workItem from="1743824196443" duration="801000" />
+      <workItem from="1743824196443" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="updated 4/4 còn báo cáo">
       <option name="closed" value="true" />
@@ -132,16 +131,5 @@
     <MESSAGE value="updated 4/4 còn báo cáo" />
     <MESSAGE value="updated 4/4 lại" />
     <option name="LAST_COMMIT_MESSAGE" value="updated 4/4 lại" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

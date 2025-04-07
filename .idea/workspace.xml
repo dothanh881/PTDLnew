@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="927e453c-3644-4a71-85b7-8d13a27ede18" name="Changes" comment="updated 4/4 lại">
+      <change afterPath="$PROJECT_DIR$/Nhom10_Data-Analysis_Midterm_new.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nhom10_Data-Analysis_Midterm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Nhom10_Data-Analysis_Midterm.ipynb" afterDir="false" />
     </list>
@@ -69,6 +70,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dell\Desktop\PTDLproject\file" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ptdl" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -103,7 +107,8 @@
       <workItem from="1743842843223" duration="2289000" />
       <workItem from="1743856933261" duration="118000" />
       <workItem from="1743860881412" duration="12215000" />
-      <workItem from="1743940363452" duration="1109000" />
+      <workItem from="1743940363452" duration="9007000" />
+      <workItem from="1743995893160" duration="11423000" />
     </task>
     <task id="LOCAL-00001" summary="updated 4/4 còn báo cáo">
       <option name="closed" value="true" />
